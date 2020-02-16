@@ -1,0 +1,6 @@
+framework module TestShare {
+  umbrella header "TestShare-umbrella.h"
+
+  export *
+  module * { export * }
+}
